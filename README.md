@@ -1,3 +1,3 @@
 # demo
-Author- Aniket Patole<br>
-This is my first repository
+Author- Aniket Patole -Anii<br>
+This is my first repo
